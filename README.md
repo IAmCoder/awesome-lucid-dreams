@@ -2,8 +2,26 @@
  
 ## Contents
 
-- [Books](#books)
 - [Forums](#forums)
+- [Apps](#apps)
+- [Books](#books)
+
+## Forums
+
+- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
+- [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
+- [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
+
+## Apps
+
+| Title        | Description           | Links       |
+| ------------ |:---------------------:|:-----------:|
+| Awoken | Dream journal, reality checking, dream cues, dream patterns and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) |
+| Sleep as Android | Smart alarm clock with sleep cycle tracking. | [Google Play](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) |
+| Mind Awake | The guided course in this app offers a dynamic, mindful approach to lucid dreaming. | [App Store](https://apps.apple.com/us/app/mind-awake/id1374074148) |
+| Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
+| Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
+| Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
 
 ## Books
 
@@ -15,9 +33,3 @@
 - [Far Journeys](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) by Robert A. Monroe - an amazing parapsychological odyssey that reflects a decade of research into the psychic realm beyond the known dimensions of physical reality.
 - [The Tibetan Yogas of Dream and Sleep](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) by Tenzin Wangyal Rinpoche - the ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
 - [Dream Yoga and the Practice of Natural Light](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - by Chogyal Namkhai Norbu - instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
-
-## Forums
-
-- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, sleep stages, dream signs, dream interpretation and more.
-- [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
-- [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
