@@ -1,13 +1,16 @@
-# awesome-lucid-dreams
+# Awesome-Lucid-Dreams
+
+The word lucid is defined as clarity - especially of thought, and in regard to dreaming it referes to a state in which you are aware that you are dreaming, while you are dreaming.
  
 ## Contents
 
 - [Forums](#forums)
 - [Apps](#apps)
+- [Podcasts](#podcasts)
 - [Techniques](#techniques)
-	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
 	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
+	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 - [Books](#books)
 
 ## Forums
@@ -27,11 +30,11 @@
 | Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
 | Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
 
+## Podcasts
+
+- [The Lucid Dreaming Podcast](https://lucidsage.com/) by Lucid Sage - covering theory, philosophy, practice and gadgets for lucid dreaming.
+
 ## Techniques
-
-###	WBTB - Wake Back To Bed
-
-Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time (such as reading about lucid dreaming), but it is not required. This is best combined with other techniques; many people have amazing results with a MILD/WBTB combination. The WBTB technique significantly increases your chances of a lucid dream, and using [MILD](#mild) in conjunction increases your success rate if you are planning to sleep an hour or more after your WBTB session. 
 
 ### MILD - Mnemonically Induced Lucid Dream
 
@@ -43,7 +46,11 @@ In general, the MILD technique can be practiced when you first go to bed at nigh
 
 For WILDs to occur, it is best for your body to be completely relaxed. When you go back to bed, lie down comfortably. Now tense and relax your body, starting from your shoulders and working downwards, then back up to the face. This (or similar relaxation, meditation, or trance techniques) should make your body feel slightly heavy and relaxed. There are many different ways to induce WILDs, but they all involve simultaneously attempting to keep the mind aware while attempting to have the body fall asleep. 
 
-If you pay attention to your physical body while using these techniques, then you will likely enter sleep paralysis (which usually happens after you are already asleep) without losing conscious awareness of your body. You will get a tingling and buzzing sensation (this might be unpleasant). These sensations might be so strong that you feel that you will die (e.g., you might feel a choking sensation), but don't worry, this is perfectly safe! In fact, this process happens to you every time you sleep, you are just not conscious during it. Sometimes you can simply wait until you fall asleep straight into a lucid dream. However, if you do not fall asleep, and you become completely paralyzed (with the exception of your eyes), do not try to move. Imagine your dream hand (or spirit hand if you prefer) going up and leaving your physical hand behind. Now you should have two separate bodies, a dream one and a real one. Control your dream body only — if you control your real one, you will wake up. Now you can try to roll out of bed into your dream world (alternatively, you can get up and walk through a mirror, or sink into your bed). 
+If you pay attention to your physical body while using these techniques, then you will likely enter sleep paralysis (which usually happens after you are already asleep) without losing conscious awareness of your body. You will get a tingling and buzzing sensation (this might be unpleasant). These sensations might be so strong that you feel that you will die (e.g., you might feel a choking sensation), but don't worry, this is perfectly safe! In fact, this process happens to you every time you sleep, you are just not conscious during it. Sometimes you can simply wait until you fall asleep straight into a lucid dream. However, if you do not fall asleep, and you become completely paralyzed (with the exception of your eyes), do not try to move. Imagine your dream hand (or spirit hand if you prefer) going up and leaving your physical hand behind. Now you should have two separate bodies, a dream one and a real one. Control your dream body only - if you control your real one, you will wake up. Now you can try to roll out of bed into your dream world (alternatively, you can get up and walk through a mirror, or sink into your bed). 
+
+### WBTB - Wake Back To Bed
+
+Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time (such as reading about lucid dreaming), but it is not required. This is best combined with other techniques; many people have amazing results with a MILD/WBTB combination. The WBTB technique significantly increases your chances of a lucid dream, and using [MILD](#mild---mnemonically-induced-lucid-dream) in conjunction increases your success rate if you are planning to sleep an hour or more after your WBTB session. 
 
 ## Books
 
