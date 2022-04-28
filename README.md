@@ -5,9 +5,9 @@
 - [Forums](#forums)
 - [Apps](#apps)
 - [Techniques](#techniques)
-	- [WBTB](#wbtb) - Wake Back To Bed
-	- [MILD](#mild) - Mnemonically Induced Lucid Dream
-	- [WILD](#wild) - Wake-Initiated Lucid Dream
+	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
+	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
+	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 - [Books](#books)
 
 ## Forums
