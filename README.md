@@ -7,6 +7,7 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [Forums](#forums)
 - [Podcasts](#podcasts)
 - [Books](#books)
+- [Magazines](#magazines)
 - [Apps](#apps)
 - [Techniques](#techniques)
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
@@ -35,6 +36,10 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [Far Journeys](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) by Robert A. Monroe - an amazing parapsychological odyssey that reflects a decade of research into the psychic realm beyond the known dimensions of physical reality.
 - [The Tibetan Yogas of Dream and Sleep](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) by Tenzin Wangyal Rinpoche - the ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
 - [Dream Yoga and the Practice of Natural Light](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - by Chogyal Namkhai Norbu - instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
+
+## Magazines
+
+- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
 
 ## Apps
 
