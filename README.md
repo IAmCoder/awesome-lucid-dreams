@@ -12,6 +12,7 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
 	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
+	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
 
 ## Forums
 
@@ -63,3 +64,7 @@ If you pay attention to your physical body while using these techniques, then yo
 ### WBTB - Wake Back To Bed
 
 Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time (such as reading about lucid dreaming), but it is not required. This is best combined with other techniques; many people have amazing results with a MILD/WBTB combination. The WBTB technique significantly increases your chances of a lucid dream, and using [MILD](#mild---mnemonically-induced-lucid-dream) in conjunction increases your success rate if you are planning to sleep an hour or more after your WBTB session. 
+
+### DEILD - Dream Exit Induced Lucid Dream
+
+When you wake up from a dream, try to remain as still as possible, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
