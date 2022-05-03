@@ -11,9 +11,16 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [Apps](#apps)
 - [Techniques](#techniques)
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
-	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
+	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
+		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
+[Reality Checks](#reality-checks)
+	- [Finger Through Hand](#finger-through-hand)
+	- [Closed Nose Breathing](#closed-nose-breathing)
+	- [Finger Counting](#finger-counting)
+ 	- [Changing Text](#changing-text)
+	- [Levitation](#levitation)
 
 ## Forums
 
@@ -66,6 +73,10 @@ For WILDs to occur, it is best for your body to be completely relaxed. When you 
 
 If you pay attention to your physical body while using these techniques, then you will likely enter sleep paralysis (which usually happens after you are already asleep) without losing conscious awareness of your body. You will get a tingling and buzzing sensation (this might be unpleasant). These sensations might be so strong that you feel that you will die (e.g., you might feel a choking sensation), but don't worry, this is perfectly safe! In fact, this process happens to you every time you sleep, you are just not conscious during it. Sometimes you can simply wait until you fall asleep straight into a lucid dream. However, if you do not fall asleep, and you become completely paralyzed (with the exception of your eyes), do not try to move. Imagine your dream hand (or spirit hand if you prefer) going up and leaving your physical hand behind. Now you should have two separate bodies, a dream one and a real one. Control your dream body only - if you control your real one, you will wake up. Now you can try to roll out of bed into your dream world (alternatively, you can get up and walk through a mirror, or sink into your bed). 
 
+### FILD - Finger Induced Lucid Dream
+
+After [WBTB](#wbtb---wake-back-to-bed), or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
+
 ### WBTB - Wake Back To Bed
 
 Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time (such as reading about lucid dreaming), but it is not required. This is best combined with other techniques; many people have amazing results with a MILD/WBTB combination. The WBTB technique significantly increases your chances of a lucid dream, and using [MILD](#mild---mnemonically-induced-lucid-dream) in conjunction increases your success rate if you are planning to sleep an hour or more after your WBTB session. 
@@ -73,3 +84,27 @@ Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for any
 ### DEILD - Dream Exit Induced Lucid Dream
 
 When you wake up from a dream, try to remain as still as possible, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
+
+## Reality Checks
+
+Reality checks are tests that are performed to check if you are dreaming.
+
+### Finger Through Hand
+
+Try to push your index finger through the palm of the other hand.
+
+### Closed Nose Breathing
+
+Pinch your nose closed with your index finger and thumb and try to take a breath.
+
+### Finger Counting
+
+Look closely at your hands for any unusual patterns and count your fingers.
+
+### Changing Text
+
+Read some text or look at the time, then briefly look away and check if it has changed.
+
+### Levitation
+
+Try to levitate and imagine what it would feel like to fly around in your surroundings. If you do this enough you may at least have a flying dream.
