@@ -15,6 +15,12 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
 	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
+[Reality Checks](#reality-checks)
+	- [Finger Through Hand](#finger-through-hand)
+	- [Closed Nose Breathing](#closed-nose-breathing)
+	- [Finger Counting](#finger-counting)
+ 	- [Changing Text](#changing-text)
+	- [Levitation](#levitation)
 
 ## Forums
 
@@ -78,3 +84,27 @@ Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for any
 ### DEILD - Dream Exit Induced Lucid Dream
 
 When you wake up from a dream, try to remain as still as possible, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
+
+## Reality Checks
+
+Reality checks are tests that are performed to check if you are dreaming.
+
+### Finger Through Hand
+
+Try to push your index finger through the palm of the other hand.
+
+### Closed Nose Breathing
+
+Pinch your nose closed with your index finger and thumb and try to take a breath.
+
+### Finger Counting
+
+Look closely at your hands for any unusual patterns and count your fingers.
+
+### Changing Text
+
+Read some text or look at the time, then briefly look away and check if it has changed.
+
+### Levitation
+
+Try to levitate and imagine what it would feel like to fly around in your surroundings. If you do this enough you may at least have a flying dream.
