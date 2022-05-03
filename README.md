@@ -21,7 +21,7 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
 - [Reality Checks](#reality-checks)
 	- [Finger Through Hand](#finger-through-hand)
-	- [Closed Nose Breathing](#closed-nose-breathing)
+	- [Nose Pinch](#nose-pinch)
 	- [Finger Counting](#finger-counting)
  	- [Changing Text](#changing-text)
 	- [Levitation](#levitation)
@@ -119,9 +119,9 @@ Reality checks are tests that are performed to check if you are dreaming.
 
 Try to push your index finger through the palm of the other hand.
 
-### Closed Nose Breathing
+### Nose Pinch
 
-Pinch your nose closed with your index finger and thumb and try to take a breath.
+Squeeze your nose closed with your index finger and thumb and try to take a breath.
 
 ### Finger Counting
 
