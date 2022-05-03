@@ -1,4 +1,4 @@
-# Awesome-Lucid-Dreams
+# Awesome Lucid Dreams
 
 The word lucid is defined as clarity - especially of thought, and in regard to dreaming it referes to a state in which you are aware that you are dreaming, while you are dreaming.
  
@@ -8,8 +8,9 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Magazines](#magazines)
-- [Books](#books)
 - [Apps](#apps)
+- [Books](#books)
+- [Movies](#movies)
 - [Audio Programs](#audio-programs)
 - [Techniques](#techniques)
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
@@ -17,7 +18,7 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
 	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
-[Reality Checks](#reality-checks)
+- [Reality Checks](#reality-checks)
 	- [Finger Through Hand](#finger-through-hand)
 	- [Closed Nose Breathing](#closed-nose-breathing)
 	- [Finger Counting](#finger-counting)
@@ -42,6 +43,17 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 
 - [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
 
+## Apps
+
+| Title        | Description           | Links       |
+| ------------ |:---------------------:|:-----------:|
+| Awoken | Dream journal, reality checking, dream cues, dream patterns and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) |
+| Sleep as Android | Smart alarm clock with sleep cycle tracking. | [Google Play](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) |
+| Mind Awake | The guided course in this app offers a dynamic, mindful approach to lucid dreaming. | [App Store](https://apps.apple.com/us/app/mind-awake/id1374074148) |
+| Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
+| Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
+| Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
+
 ## Books
 
 - [Exploring the World of Lucid Dreaming](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/) by Stephen LaBerge - goes far beyond the confines of pop dream psychology, establishing a scientifically researched framework for using lucid dreaming. The techniques you'll learn in this exciting workbook will make your nightly dream journeys more enjoyable, increase your understanding of yourself, and make you realize that the possibilities of expanding consciousness are far greater than you might think.
@@ -54,16 +66,14 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [The Tibetan Yogas of Dream and Sleep](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) by Tenzin Wangyal Rinpoche - the ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
 - [Dream Yoga and the Practice of Natural Light](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - by Chogyal Namkhai Norbu - instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
 
-## Apps
+## Movies
 
-| Title        | Description           | Links       |
-| ------------ |:---------------------:|:-----------:|
-| Awoken | Dream journal, reality checking, dream cues, dream patterns and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) |
-| Sleep as Android | Smart alarm clock with sleep cycle tracking. | [Google Play](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) |
-| Mind Awake | The guided course in this app offers a dynamic, mindful approach to lucid dreaming. | [App Store](https://apps.apple.com/us/app/mind-awake/id1374074148) |
-| Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
-| Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
-| Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
+- [The Matrix](https://www.imdb.com/title/tt0133093/) - when a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+- [Waking Life](https://www.imdb.com/title/tt0243017/) - a man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
+- [Your Name](https://www.imdb.com/title/tt5311514/) - two strangers find themselves linked in a bizarre way.
+- [Paprika](https://www.imdb.com/title/tt0851578/) - when a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose.
+- [Inception](https://www.imdb.com/title/tt1375666/) - a thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+
 
 ## Audio Programs
 
