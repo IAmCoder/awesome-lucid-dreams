@@ -8,6 +8,7 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Magazines](#magazines)
+- [Games](games)
 - [Apps](#apps)
 - [Books](#books)
 - [Movies](#movies)
@@ -41,7 +42,11 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 
 ## Magazines
 
-- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
+- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.## Magazines
+
+## Games
+
+- [DARQ](https://store.steampowered.com/app/433550/DARQ_Complete_Edition/) - tells the story of Lloyd, a boy who becomes aware of the fact that he is dreaming.
 
 ## Apps
 
