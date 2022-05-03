@@ -1,6 +1,6 @@
 # Awesome Lucid Dreams
 
-The word lucid is defined as clarity - especially of thought, and in regard to dreaming it referes to a state in which you are aware that you are dreaming, while you are dreaming.
+A curated list of everything related to lucid dreaming. The word lucid is defined as clarity - especially of thought, and in regard to dreaming it referes to a state in which you are aware that you are dreaming, while you are dreaming.
  
 ## Contents
 
