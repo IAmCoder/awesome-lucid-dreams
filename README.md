@@ -11,9 +11,10 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [Apps](#apps)
 - [Techniques](#techniques)
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
-	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
+	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
+		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
 
 ## Forums
 
@@ -65,6 +66,10 @@ In general, the MILD technique can be practiced when you first go to bed at nigh
 For WILDs to occur, it is best for your body to be completely relaxed. When you go back to bed, lie down comfortably. Now tense and relax your body, starting from your shoulders and working downwards, then back up to the face. This (or similar relaxation, meditation, or trance techniques) should make your body feel slightly heavy and relaxed. There are many different ways to induce WILDs, but they all involve simultaneously attempting to keep the mind aware while attempting to have the body fall asleep. 
 
 If you pay attention to your physical body while using these techniques, then you will likely enter sleep paralysis (which usually happens after you are already asleep) without losing conscious awareness of your body. You will get a tingling and buzzing sensation (this might be unpleasant). These sensations might be so strong that you feel that you will die (e.g., you might feel a choking sensation), but don't worry, this is perfectly safe! In fact, this process happens to you every time you sleep, you are just not conscious during it. Sometimes you can simply wait until you fall asleep straight into a lucid dream. However, if you do not fall asleep, and you become completely paralyzed (with the exception of your eyes), do not try to move. Imagine your dream hand (or spirit hand if you prefer) going up and leaving your physical hand behind. Now you should have two separate bodies, a dream one and a real one. Control your dream body only - if you control your real one, you will wake up. Now you can try to roll out of bed into your dream world (alternatively, you can get up and walk through a mirror, or sink into your bed). 
+
+### FILD - Finger Induced Lucid Dream
+
+After [WBTB](#wbtb---wake-back-to-bed), or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
 
 ### WBTB - Wake Back To Bed
 
