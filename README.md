@@ -5,11 +5,12 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 ## Contents
 
 - [Forums](#forums)
+- [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Magazines](#magazines)
-- [YouTube Channels](#youtube-channels)
 - [Books](#books)
 - [Apps](#apps)
+- [Audio Programs](#audio-programs)
 - [Techniques](#techniques)
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
@@ -29,6 +30,10 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
 - [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
 
+## YouTube Channels
+
+- [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA)
+
 ## Podcasts
 
 - [The Lucid Dreaming Podcast](https://lucidsage.com/) by Lucid Sage - covering theory, philosophy, practice and gadgets for lucid dreaming.
@@ -36,10 +41,6 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 ## Magazines
 
 - [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
-
-## YouTube Channels
-
-- [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA)
 
 ## Books
 
@@ -63,6 +64,11 @@ The word lucid is defined as clarity - especially of thought, and in regard to d
 | Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
 | Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
 | Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
+
+## Audio Programs
+
+- [Lucid Dreaming Series](https://hemi-sync.com/product/lucid-dreaming-series) 
+- [Discover Your Worlds Of Dreams](https://www.jonathanparker.org/product/mp3-programs/spirituality-enlightenment/discover-worlds-dreams/)
 
 ## Techniques
 
