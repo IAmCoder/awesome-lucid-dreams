@@ -5,6 +5,7 @@ A curated list of everything related to lucid dreaming. The word lucid is define
 ## Contents
 
 - [Forums](#forums)
+- [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Magazines](#magazines)
@@ -31,6 +32,10 @@ A curated list of everything related to lucid dreaming. The word lucid is define
 - [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
 - [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
+
+## Discord Servers
+
+- [Lucid Hive](https://discord.gg/hkPbTSP4n9)
 
 ## YouTube Channels
 
