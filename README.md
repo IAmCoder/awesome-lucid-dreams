@@ -25,7 +25,8 @@
 
 ## Forums
 
-- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
+- [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
+- [DreamViews](https://dreamviews.com) - all about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
 - [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
 
