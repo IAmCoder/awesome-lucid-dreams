@@ -21,9 +21,9 @@
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
 - [Reality Checks](#reality-checks)
 	- [Finger Through Hand](#finger-through-hand)
+	- [How Did I Get Here](#how-did-i-get-here)
 	- [Nose Pinch](#nose-pinch)
 	- [Finger Counting](#finger-counting)
- 	- [Changing Text](#changing-text)
 	- [Levitation](#levitation)
 
 ## Forums
@@ -121,11 +121,15 @@ When you wake up from a dream, try to remain as still as possible, in order to n
 
 ## Reality Checks
 
-Reality checks are tests that are performed to check if you are dreaming.
+Reality checks are tests that are performed to check if you are dreaming. The more you practice them while awake, the more 
 
 ### Finger Through Hand
 
 Try to push your index finger through the palm of the other hand.
+
+### How Did I Get Here
+
+Recall the steps that got you to your current location.
 
 ### Nose Pinch
 
@@ -134,10 +138,6 @@ Squeeze your nose closed with your index finger and thumb and try to take a brea
 ### Finger Counting
 
 Look closely at your hands for any unusual patterns and count your fingers.
-
-### Changing Text
-
-Read some text or look at the time, then briefly look away and check if it has changed.
 
 ### Levitation
 
