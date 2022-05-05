@@ -1,13 +1,12 @@
 # Awesome Lucid Dreams
 
-A curated list of everything related to lucid dreaming. The word lucid is defined as clarity - especially of thought, and in regard to dreaming it referes to a state in which you are aware that you are dreaming, while you are dreaming.
- 
 ## Contents
 
 - [Forums](#forums)
 - [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
+- [Meetups](#meetups)
 - [Magazines](#magazines)
 - [Games](games)
 - [Apps](#apps)
@@ -44,6 +43,10 @@ A curated list of everything related to lucid dreaming. The word lucid is define
 ## Podcasts
 
 - [The Lucid Dreaming Podcast](https://lucidsage.com/) by Lucid Sage - covering theory, philosophy, practice and gadgets for lucid dreaming.
+
+## Meetups
+
+- [Tech for Dreaming](https://techfordreaming.com/events/) - a community focused on the application of technology to make lucid dreaming more accessible.
 
 ## Magazines
 
