@@ -22,11 +22,6 @@
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
 		- [SSILD](@ssild---senses-induced-lucid-dream) - Senses Induced Lucid Dream
 - [Reality Checks](#reality-checks)
-	- [Finger Through Hand](#finger-through-hand)
-	- [How Did I Get Here](#how-did-i-get-here)
-	- [Nose Pinch](#nose-pinch)
-	- [Finger Counting](#finger-counting)
-	- [Levitation](#levitation)
 
 ## Forums
 
@@ -129,22 +124,8 @@ When you wake up from a dream, try to remain as still as possible, in order to n
 
 Reality checks are tests that are performed to check if you are dreaming. The more you practice them while awake, the more 
 
-### Finger Through Hand
-
-Try to push your index finger through the palm of the other hand.
-
-### How Did I Get Here
-
-Recall the steps that got you to your current location.
-
-### Nose Pinch
-
-Squeeze your nose closed with your index finger and thumb and try to take a breath.
-
-### Finger Counting
-
-Look closely at your hands for any unusual patterns and count your fingers.
-
-### Levitation
-
-Try to levitate and imagine what it would feel like to fly around in your surroundings. If you do this enough you may at least have a flying dream.
+- **Finger Through Hand** - try to push your index finger through the palm of the other hand.
+- **How Did I Get Here** - recall the steps that got you to your current location.
+- **Nose Pinch** - squeeze your nose closed with your index finger and thumb and try to take a breath.
+- **Finger Counting** - look closely at your hands for any unusual patterns and count your fingers.
+- **Levitation** - imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
