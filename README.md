@@ -118,7 +118,7 @@ Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for any
 
 ### DEILD - Dream Exit Induced Lucid Dream
 
-When you wake up from a dream, try to remain as still as possible, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
+When you wake up from a dream, try to remain as still as possible and keep your eyes closed, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
 
 ## Reality Checks
 
