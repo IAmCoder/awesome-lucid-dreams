@@ -14,11 +14,13 @@
 - [Movies](#movies)
 - [Audio Programs](#audio-programs)
 - [Techniques](#techniques)
+	- [ADA](#ada---all-day-awareness) All Day Awareness
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
 	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
 		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
+		- [SSILD](@ssild---senses-induced-lucid-dream) - Senses Induced Lucid Dream
 - [Reality Checks](#reality-checks)
 	- [Finger Through Hand](#finger-through-hand)
 	- [How Did I Get Here](#how-did-i-get-here)
@@ -95,6 +97,8 @@
 
 ## Techniques
 
+### ADA - All Day Awareness
+
 ### MILD - Mnemonically Induced Lucid Dream
 
 As you are falling asleep, you concentrate on your intention to remember to recognize that you are dreaming. Repeat a short mantra in your head, such as "Next time I'm dreaming, I will remember I'm dreaming". Think about what this means (i.e., that you want to remember that you are dreaming - in the same way you might go to a grocery store and suddenly remember that you need bread), and imagine that you are back in a dream you've had recently, but this time you recognize that you are dreaming. For example, if you recently dreamed of flying, imagine realizing that it is a dream because you are flying. Keep repeating and visualizing the mantra until you are sure that your intention is set in your mind or you fall asleep. If you stop repeating and visualizing the mantra, then still try to make sure the last thing in your mind before falling asleep is your intention to remember to recognize that you are dreaming.
@@ -110,6 +114,8 @@ If you pay attention to your physical body while using these techniques, then yo
 ### FILD - Finger Induced Lucid Dream
 
 After [WBTB](#wbtb---wake-back-to-bed), or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
+
+### SSILD - Senses Induced Lucid Dream
 
 ### WBTB - Wake Back To Bed
 
