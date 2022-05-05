@@ -14,7 +14,7 @@
 - [Movies](#movies)
 - [Audio Programs](#audio-programs)
 - [Techniques](#techniques)
-	- [ADA](#ada---all-day-awareness) All Day Awareness
+	- [ADA](#ada---all-day-awareness) - All Day Awareness
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
@@ -48,7 +48,7 @@
 
 ## Magazines
 
-- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.## Magazines
+- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
 
 ## Games
 
