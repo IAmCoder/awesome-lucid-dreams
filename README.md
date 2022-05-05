@@ -115,7 +115,7 @@ After [WBTB](#wbtb---wake-back-to-bed), or when you are very tired and drifting 
 
 ### WBTB - Wake Back To Bed
 
-Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. It is preferable that you do something related to lucid dreaming during this time (such as reading about lucid dreaming), but it is not required. This is best combined with other techniques; many people have amazing results with a MILD/WBTB combination. The WBTB technique significantly increases your chances of a lucid dream, and using [MILD](#mild---mnemonically-induced-lucid-dream) in conjunction increases your success rate if you are planning to sleep an hour or more after your WBTB session. 
+Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. Perfrom some reality checks and combine with other techniques when going back to sleep.
 
 ### DEILD - Dream Exit Induced Lucid Dream
 
