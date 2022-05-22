@@ -55,7 +55,7 @@
 
 ## Games
 
-- [DARQ](https://store.steampowered.com/app/433550/DARQ_Complete_Edition/) - tells the story of Lloyd, a boy who becomes aware of the fact that he is dreaming.
+- [DARQ](https://store.steampowered.com/app/433550/DARQ_Complete_Edition/) - An adventure game that tells the story of Lloyd, a boy who becomes aware of the fact that he is dreaming.
 
 ## Apps
 
