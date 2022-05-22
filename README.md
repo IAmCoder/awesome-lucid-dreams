@@ -12,6 +12,7 @@
 - [Apps](#apps)
 - [Books](#books)
 - [Movies](#movies)
+- [Mindfulness Exercises](#mindfulness-exercises)
 - [Audio Programs](#audio-programs)
 - [Techniques](#techniques)
 	- [ADA](#ada---all-day-awareness) - All Day Awareness
@@ -86,6 +87,12 @@
 - [Paprika](https://www.imdb.com/title/tt0851578/) - when a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose.
 - [Inception](https://www.imdb.com/title/tt1375666/) - a thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
 
+
+## Mindfulness Exercises
+
+- [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) - Guided exercises on breath, sound, and body awareness.
+- [https://www.freemindfulness.org/download](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises om breath, sound, body awareness and self guided exercises.
+- [AudioDharma](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises on giving attention and appreciating awareness of the moment.
 
 ## Audio Programs
 
