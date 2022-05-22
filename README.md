@@ -32,7 +32,8 @@
 
 ## Discord Servers
 
-- [Lucid Hive](https://discord.gg/hkPbTSP4n9)
+- [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
+- [Lucid Hive](https://discord.gg/hkPbTSP4n9) - A hub for all things lucid dreaming and lucid living.
 
 ## YouTube Channels
 
