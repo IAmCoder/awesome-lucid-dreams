@@ -38,7 +38,8 @@
 
 ## YouTube Channels
 
-- [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA)
+- [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [Skyfall Blind Dreamer](https://www.youtube.com/channel/UCjPuiCWSbszlo_men2bPMpA) - Interacts with creators in the field of lucid dreaming and provides quality information to get people on the right path to a solid and sustainable lucidity practice.
 
 ## Podcasts
 
