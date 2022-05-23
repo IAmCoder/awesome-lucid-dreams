@@ -27,7 +27,7 @@
 ## Forums
 
 - [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
-- [DreamViews](https://dreamviews.com) - all about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
+- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
 - [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
 
@@ -43,15 +43,15 @@
 
 ## Podcasts
 
-- [The Lucid Dreaming Podcast](https://lucidsage.com/) by Lucid Sage - covering theory, philosophy, practice and gadgets for lucid dreaming.
+- [The Lucid Dreaming Podcast](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
 
 ## Meetups
 
-- [Tech for Dreaming](https://techfordreaming.com/events/) - a community focused on the application of technology to make lucid dreaming more accessible.
+- [Tech for Dreaming](https://techfordreaming.com/events/) - A community focused on the application of technology to make lucid dreaming more accessible.
 
 ## Magazines
 
-- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - a free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
+- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - A free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
 
 ## Games
 
@@ -70,23 +70,23 @@
 
 ## Books
 
-- [Exploring the World of Lucid Dreaming](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/) by Stephen LaBerge - goes far beyond the confines of pop dream psychology, establishing a scientifically researched framework for using lucid dreaming. The techniques you'll learn in this exciting workbook will make your nightly dream journeys more enjoyable, increase your understanding of yourself, and make you realize that the possibilities of expanding consciousness are far greater than you might think.
-- [Lucid Dreaming: A Concise Guide to Awakening in Your Dreams and in Your Life](https://www.amazon.com/Lucid-Dreaming-Concise-Awakening-Dreams/dp/159179675X) by Stephen LaBerge - distilled from his more than 20 years of pioneering research at Stanford University and the Lucidity Institute, including many new and updated techniques and discoveries.
-- [Lucid Dreaming: Gateway to the Inner Self](https://www.amazon.com/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) by Robert Waggoner - proposes 5 stages of lucid dreaming and guides readers through them, offering advice for those who have never experienced the lucid dream state and suggestions for how experienced lucid dreamers can advance to a new level.
-- [Are You Dreaming?: Exploring Lucid Dreams: A Comprehensive Guide](https://www.amazon.com/Are-You-Dreaming-Exploring-Comprehensive/dp/0957497709) by Daniel Love - In this comprehensive and modern guide to lucid dreaming, you will be guided on a unique journey through the fascinating exploration of your mind. Just about everything you could possibly need to know about lucid dreaming.
-- [A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics](https://www.amazon.com/Field-Guide-Lucid-Dreaming-Oneironautics/dp/0761177396/) by Dylan Tuccillo - this lively dream guide shows step-by-step how to become lucid, and then what to do once awake in the dream world.  
-- [Learn to Lucid Dream: Powerful Techniques for Awakening Creativity and Consciousness](https://www.amazon.com/Learn-Lucid-Dream-Techniques-Consciousness/dp/1641523824) by Kristen LaMarca - this methodical introduction teaches you both the science and spirituality of dreaming. You’ll practice developing dream awareness and apply the discoveries you make while sleeping towards improving your waking hours.
-- [Far Journeys](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) by Robert A. Monroe - an amazing parapsychological odyssey that reflects a decade of research into the psychic realm beyond the known dimensions of physical reality.
-- [The Tibetan Yogas of Dream and Sleep](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) by Tenzin Wangyal Rinpoche - the ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
-- [Dream Yoga and the Practice of Natural Light](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - by Chogyal Namkhai Norbu - instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
+- [Exploring the World of Lucid Dreaming by Stephen LaBerge ](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/) - Goes far beyond the confines of pop dream psychology, establishing a scientifically researched framework for using lucid dreaming. The techniques you'll learn in this exciting workbook will make your nightly dream journeys more enjoyable, increase your understanding of yourself, and make you realize that the possibilities of expanding consciousness are far greater than you might think.
+- [Lucid Dreaming: A Concise Guide to Awakening in Your Dreams and in Your Life by Stephen LaBerge](https://www.amazon.com/Lucid-Dreaming-Concise-Awakening-Dreams/dp/159179675X) - Distilled from his more than 20 years of pioneering research at Stanford University and the Lucidity Institute, including many new and updated techniques and discoveries.
+- [Lucid Dreaming: Gateway to the Inner Self by Robert Waggoner](https://www.amazon.com/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) - Proposes 5 stages of lucid dreaming and guides readers through them, offering advice for those who have never experienced the lucid dream state and suggestions for how experienced lucid dreamers can advance to a new level.
+- [Are You Dreaming?: Exploring Lucid Dreams: A Comprehensive Guide by Daniel Love](https://www.amazon.com/Are-You-Dreaming-Exploring-Comprehensive/dp/0957497709) - In this comprehensive and modern guide to lucid dreaming, you will be guided on a unique journey through the fascinating exploration of your mind. Just about everything you could possibly need to know about lucid dreaming.
+- [A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics by Dylan Tuccillo](https://www.amazon.com/Field-Guide-Lucid-Dreaming-Oneironautics/dp/0761177396/) - This lively dream guide shows step-by-step how to become lucid, and then what to do once awake in the dream world.  
+- [Learn to Lucid Dream: Powerful Techniques for Awakening Creativity and Consciousness by Kristen LaMarca](https://www.amazon.com/Learn-Lucid-Dream-Techniques-Consciousness/dp/1641523824) - This methodical introduction teaches you both the science and spirituality of dreaming. You’ll practice developing dream awareness and apply the discoveries you make while sleeping towards improving your waking hours.
+- [Far Journeys by Robert A. Monroe](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) - Parapsychological odyssey that reflects a decade of research into the psychic realm beyond the known dimensions of physical reality.
+- [The Tibetan Yogas of Dream and Sleep by Tenzin Wangyal Rinpoche](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) - The ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
+- [Dream Yoga and the Practice of Natural Light by Chogyal Namkhai Norbu](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - Instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
 
 ## Movies
 
-- [The Matrix](https://www.imdb.com/title/tt0133093/) - when a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
-- [Waking Life](https://www.imdb.com/title/tt0243017/) - a man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
-- [Your Name](https://www.imdb.com/title/tt5311514/) - two strangers find themselves linked in a bizarre way.
-- [Paprika](https://www.imdb.com/title/tt0851578/) - when a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose.
-- [Inception](https://www.imdb.com/title/tt1375666/) - a thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+- [The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+- [Waking Life](https://www.imdb.com/title/tt0243017/) - A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
+- [Your Name](https://www.imdb.com/title/tt5311514/) - Two strangers find themselves linked in a bizarre way.
+- [Paprika](https://www.imdb.com/title/tt0851578/) - When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose.
+- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
 
 
 ## Mindfulness Exercises
@@ -118,7 +118,7 @@ If you pay attention to your physical body while using these techniques, then yo
 
 ### FILD - Finger Induced Lucid Dream
 
-After [WBTB](#wbtb---wake-back-to-bed), or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
+After WBTB, or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
 
 ### SSILD - Senses Induced Lucid Dream
 
@@ -134,8 +134,8 @@ When you wake up from a dream, try to remain as still as possible and keep your 
 
 Reality checks are tests that are performed to check if you are dreaming. The more you practice them while awake, the more 
 
-- **Finger Through Hand** - try to push your index finger through the palm of the other hand.
-- **How Did I Get Here** - recall the steps that got you to your current location.
-- **Nose Pinch** - squeeze your nose closed with your index finger and thumb and try to take a breath.
-- **Finger Counting** - look closely at your hands for any unusual patterns and count your fingers.
-- **Levitation** - imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
+- **Finger Through Hand** - Try to push your index finger through the palm of the other hand.
+- **How Did I Get Here** - Recall the steps that got you to your current location.
+- **Nose Pinch** - Squeeze your nose closed with your index finger and thumb and try to take a breath.
+- **Finger Counting** - Look closely at your hands for any unusual patterns and count your fingers.
+- **Levitation** - Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
