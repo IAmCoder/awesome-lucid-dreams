@@ -1,5 +1,7 @@
 # Awesome Lucid Dreams
 
+A curated list of everything awesome related to lucid dreaming.
+
 ## Contents
 
 - [Forums](#forums)
