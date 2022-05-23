@@ -106,15 +106,7 @@
 
 ### MILD - Mnemonically Induced Lucid Dream
 
-As you are falling asleep, you concentrate on your intention to remember to recognize that you are dreaming. Repeat a short mantra in your head, such as "Next time I'm dreaming, I will remember I'm dreaming". Think about what this means (i.e., that you want to remember that you are dreaming - in the same way you might go to a grocery store and suddenly remember that you need bread), and imagine that you are back in a dream you've had recently, but this time you recognize that you are dreaming. For example, if you recently dreamed of flying, imagine realizing that it is a dream because you are flying. Keep repeating and visualizing the mantra until you are sure that your intention is set in your mind or you fall asleep. If you stop repeating and visualizing the mantra, then still try to make sure the last thing in your mind before falling asleep is your intention to remember to recognize that you are dreaming.
-
-In general, the MILD technique can be practiced when you first go to bed at night, or after you have awakened from a dream during the night. If you practice the MILD technique after you have awakened from a dream, you should first run through the dream to ensure that you remember it. 
-
 ### WILD - Wake-Initiated Lucid Dream
-
-For WILDs to occur, it is best for your body to be completely relaxed. When you go back to bed, lie down comfortably. Now tense and relax your body, starting from your shoulders and working downwards, then back up to the face. This (or similar relaxation, meditation, or trance techniques) should make your body feel slightly heavy and relaxed. There are many different ways to induce WILDs, but they all involve simultaneously attempting to keep the mind aware while attempting to have the body fall asleep. 
-
-If you pay attention to your physical body while using these techniques, then you will likely enter sleep paralysis (which usually happens after you are already asleep) without losing conscious awareness of your body. You will get a tingling and buzzing sensation (this might be unpleasant). These sensations might be so strong that you feel that you will die (e.g., you might feel a choking sensation), but don't worry, this is perfectly safe! In fact, this process happens to you every time you sleep, you are just not conscious during it. Sometimes you can simply wait until you fall asleep straight into a lucid dream. However, if you do not fall asleep, and you become completely paralyzed (with the exception of your eyes), do not try to move. Imagine your dream hand (or spirit hand if you prefer) going up and leaving your physical hand behind. Now you should have two separate bodies, a dream one and a real one. Control your dream body only - if you control your real one, you will wake up. Now you can try to roll out of bed into your dream world (alternatively, you can get up and walk through a mirror, or sink into your bed). 
 
 ### FILD - Finger Induced Lucid Dream
 
@@ -132,7 +124,7 @@ When you wake up from a dream, try to remain as still as possible and keep your 
 
 ## Reality Checks
 
-Reality checks are tests that are performed to check if you are dreaming. The more you practice them while awake, the more 
+Reality checks are tests that are performed to check if you are dreaming. 
 
 - **Finger Through Hand** - Try to push your index finger through the palm of the other hand.
 - **How Did I Get Here** - Recall the steps that got you to your current location.
