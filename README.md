@@ -8,7 +8,7 @@
 - [Podcasts](#podcasts)
 - [Meetups](#meetups)
 - [Magazines](#magazines)
-- [Games](games)
+- [Games](#games)
 - [Apps](#apps)
 - [Books](#books)
 - [Movies](#movies)
@@ -92,7 +92,7 @@
 ## Mindfulness Exercises
 
 - [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) - Guided exercises on breath, sound, and body awareness.
-- [https://www.freemindfulness.org/download](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises om breath, sound, body awareness and self guided exercises.
+- [The Free Mindfulness Project](https://www.freemindfulness.org/download) - Guided exercises om breath, sound, body awareness and self guided exercises.
 - [AudioDharma](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises on giving attention and appreciating awareness of the moment.
 
 ## Audio Programs
