@@ -19,11 +19,11 @@ A curated list of everything awesome related to lucid dreaming.
 - [Techniques](#techniques)
 	- [ADA](#ada---all-day-awareness) - All Day Awareness
 	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
+	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
+	- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
+	- [SSILD](@ssild---senses-induced-lucid-dream) - Senses Induced Lucid Dream
 	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
 	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
-	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
-		- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
-		- [SSILD](@ssild---senses-induced-lucid-dream) - Senses Induced Lucid Dream
 - [Reality Checks](#reality-checks)
 
 ## Forums
@@ -110,9 +110,7 @@ A curated list of everything awesome related to lucid dreaming.
 
 ### WILD - Wake-Initiated Lucid Dream
 
-### FILD - Finger Induced Lucid Dream
-
-After WBTB, or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
+- [FILD - Finger Induced Lucid Dream](https://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html) - After WBTB, or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
 
 ### SSILD - Senses Induced Lucid Dream
 
