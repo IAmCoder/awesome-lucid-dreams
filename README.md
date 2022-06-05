@@ -41,6 +41,7 @@ A curated list of everything awesome related to lucid dreaming.
 ## YouTube Channels
 
 - [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [Tipharot](https://www.youtube.com/channel/UCcwEgS97oUAcBR1rgKj4E0A) - All about lucid dreaming and similar subjects.
 - [Skyfall Blind Dreamer](https://www.youtube.com/channel/UCjPuiCWSbszlo_men2bPMpA) - Interacts with creators in the field of lucid dreaming and provides quality information to get people on the right path to a solid and sustainable lucidity practice.
 
 ## Podcasts
