@@ -1,4 +1,4 @@
-# Awesome Lucid Dreams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Lucid Dreams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of everything awesome related to lucid dreaming.
 
