@@ -129,8 +129,10 @@ When you wake up from a dream, try to remain as still as possible and keep your 
 
 Reality checks are tests that are performed to check if you are dreaming. 
 
-- **Finger Through Hand** - Try to push your index finger through the palm of the other hand.
-- **How Did I Get Here** - Recall the steps that got you to your current location.
-- **Nose Pinch** - Squeeze your nose closed with your index finger and thumb and try to take a breath.
-- **Finger Counting** - Look closely at your hands for any unusual patterns and count your fingers.
-- **Levitation** - Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
+| Reality Check       | Description   |
+| -------------       | ------------- |
+| Finger Through Hand | Push your index finger through the palm of the other hand. |
+| How Did I Get Here  | Recall the steps that got you to your current location. |
+| Nose Pinch          | Squeeze your nose closed with your index finger and thumb and try to take a breath. |
+| Finger Counting     | Look closely at your hands for any unusual patterns and count your fingers. |
+| Levitation          | Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly. |
