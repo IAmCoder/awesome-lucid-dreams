@@ -102,8 +102,8 @@ A curated list of everything awesome related to lucid dreaming.
 
 ## Audio Programs
 
-- [Lucid Dreaming Series](https://hemi-sync.com/product/lucid-dreaming-series) 
-- [Discover Your Worlds Of Dreams](https://www.jonathanparker.org/product/mp3-programs/spirituality-enlightenment/discover-worlds-dreams/)
+- [Lucid Dreaming Series](https://hemi-sync.com/product/lucid-dreaming-series) - This four-exercise series is designed to teach you how to program and consciously participate in your own personal dreamscape.
+- [Discover Your Worlds Of Dreams](https://www.jonathanparker.org/product/mp3-programs/spirituality-enlightenment/discover-worlds-dreams/) - Meditative sessions specifically designed to help you to have lucid dreams which are helpful and relevant to your life situations.
 
 ## Techniques
 
