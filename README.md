@@ -2,10 +2,6 @@
 
 A curated list of everything awesome related to lucid dreaming.
 
-### Contributing
-
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md).
-
 ## Contents
 
 - [Open-Source Projects](#open-source-projects)
