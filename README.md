@@ -17,14 +17,6 @@ A curated list of everything awesome related to lucid dreaming.
 - [Movies](#movies)
 - [Mindfulness Exercises](#mindfulness-exercises)
 - [Audio Programs](#audio-programs)
-- [Techniques](#techniques)
-	- [ADA](#ada---all-day-awareness) - All Day Awareness
-	- [MILD](#mild---mnemonically-induced-lucid-dream) - Mnemonically Induced Lucid Dream
-	- [WILD](#wild---wake-initiated-lucid-dream) - Wake-Initiated Lucid Dream
-	- [FILD](#fild---finger-induced-lucid-dream) - Finger Induced Lucid Dream
-	- [SSILD](@ssild---senses-induced-lucid-dream) - Senses Induced Lucid Dream
-	- [WBTB](#wbtb---wake-back-to-bed) - Wake Back To Bed
-	- [DEILD](#deild---dream-exit-induced-lucid-dream) - Dream Exit Induced Lucid Dream
 - [Reality Checks](#reality-checks)
 
 ## Open-Source Projects
@@ -112,26 +104,6 @@ A curated list of everything awesome related to lucid dreaming.
 
 - [Lucid Dreaming Series](https://hemi-sync.com/product/lucid-dreaming-series) - This four-exercise series is designed to teach you how to program and consciously participate in your own personal dreamscape.
 - [Discover Your Worlds Of Dreams](https://www.jonathanparker.org/product/mp3-programs/spirituality-enlightenment/discover-worlds-dreams/) - Meditative sessions specifically designed to help you to have lucid dreams which are helpful and relevant to your life situations.
-
-## Techniques
-
-### ADA - All Day Awareness
-
-### MILD - Mnemonically Induced Lucid Dream
-
-### WILD - Wake-Initiated Lucid Dream
-
-- [FILD - Finger Induced Lucid Dream](https://www.dreamviews.com/induction-techniques/4779-finger-induced-lucid-dream-fild.html) - After WBTB, or when you are very tired and drifting off to sleep, pretend that you are playing piano by lifting up and pressing down with your index and middle fingers, as gently as possible. Perform a reality check every minute or so.
-
-### SSILD - Senses Induced Lucid Dream
-
-### WBTB - Wake Back To Bed
-
-Wake yourself up after 4 to 6 hours of sleep, get out of bed and stay up for anywhere between a few minutes to an hour before going back to bed. Perfrom some reality checks and combine with other techniques when going back to sleep.
-
-### DEILD - Dream Exit Induced Lucid Dream
-
-When you wake up from a dream, try to remain as still as possible and keep your eyes closed, in order to not disturb the neurotransmitters responsible for the dream state. Then imagine and visualize how you would have changed the outcome of the last dream you had if you had known you were dreamin, by flying around in the dream scape or using magical powers.
 
 ## Reality Checks
 
