@@ -48,7 +48,8 @@ A curated list of everything awesome related to lucid dreaming.
 
 ## Podcasts
 
-- [The Lucid Dreaming Podcast](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
+- [Lucid Dreaming Podcast by The Lucid Guide](https://www.thelucidguide.com/lucid-dream-podcast) - Talks about lucid dreaming techniques, tutorials, and mind hacking.
+- [The Lucid Dreaming Podcast by Lucid Sage](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
 
 ## Meetups
 
