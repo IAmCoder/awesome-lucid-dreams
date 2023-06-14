@@ -5,8 +5,8 @@ A curated list of everything awesome related to lucid dreaming.
 ## Contents
 
 - [Open-Source Projects](#open-source-projects)
-- [Discord Servers](#discord-servers)
 - [Forums](#forums)
+- [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
 - [Podcasts](#podcasts)
 - [Meetups](#meetups)
@@ -26,19 +26,20 @@ A curated list of everything awesome related to lucid dreaming.
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
 
+## Forums
+
+- [wt/lucid-dreaming](https://wts2.wt.social/en/wt/lucid-dreaming) - All about lucid dreaming: personal stories, research, exchange of ideas.
+- [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
+- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
+- [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
+- [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
+
 ## Discord Servers
 
 - [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
 - [Dream Café](https://discord.gg/dreamcafe) - A place to share your dream stories, get help and hang out with experienced lucid dreamers from around the world.
 - [Tech for Dreaming](https://discord.gg/UndEguFjSs) - A community focused on the application of technology to make lucid dreaming more accessible.
 - [The Lucid Hive 2.0](https://discord.gg/4TpZ6eaS2v) - A hub for all things lucid dreaming and lucid living.
-
-## Forums
-
-- [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
-- [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
-- [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
-- [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
 
 ## YouTube Channels
 
