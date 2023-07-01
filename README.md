@@ -92,7 +92,7 @@ A curated list of everything awesome related to lucid dreaming.
 - [The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
 - [Waking Life](https://www.imdb.com/title/tt0243017/) - A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
 - [Your Name](https://www.imdb.com/title/tt5311514/) - Two strangers find themselves linked in a bizarre way.
-- [Paprika](https://www.imdb.com/title/tt0851578/) - Reality and the dream world are on a collision course after a device that can record dreams and allows therapists to enter their patients' dreams is stolen from a psuchiatric research facility.
+- [Paprika](https://www.imdb.com/title/tt0851578/) - Reality and the dream world are on a collision course after a device that can record dreams and allows therapists to enter their patients' dreams is stolen from a psychiatric research facility.
 - [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
 
 
