@@ -39,7 +39,6 @@ A curated list of everything awesome related to lucid dreaming.
 - [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
 - [Dream Café](https://discord.gg/dreamcafe) - A place to share your dream stories, get help and hang out with experienced lucid dreamers from around the world.
 - [Tech for Dreaming](https://discord.gg/UndEguFjSs) - A community focused on the application of technology to make lucid dreaming more accessible.
-- [The Lucid Hive 2.0](https://discord.gg/4TpZ6eaS2v) - A hub for all things lucid dreaming and lucid living.
 
 ## YouTube Channels
 
