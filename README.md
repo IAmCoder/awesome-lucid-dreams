@@ -22,6 +22,7 @@ A curated list of everything awesome related to lucid dreaming.
 ## Open-Source Projects
 
 - [Dreamento](https://github.com/dreamento/dreamento) - DReam ENgenieering TOolbox is Python-based program for dream engineering while monitoring/analyzing real-time EEG data.
+- [INSPEC](https://github.com/lucidcode/Halovision-INSPEC) - A night-vision smart camera that detects eye movements during REM sleep and triggers audio and visual alerts to promote lucidity.
 - [Dream Journal App](https://github.com/gitbrent/dream-journal-app) - A Dream Journal that uses Google Drive.
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
