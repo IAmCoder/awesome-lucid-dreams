@@ -29,7 +29,6 @@ A curated list of everything awesome related to lucid dreaming.
 
 ## Forums
 
-- [wt/lucid-dreaming](https://wts2.wt.social/en/wt/lucid-dreaming) - All about lucid dreaming: personal stories, research, exchange of ideas.
 - [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
 - [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
