@@ -2,6 +2,8 @@
 
 A curated list of everything awesome related to lucid dreaming.
 
+In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.org/wiki/Lucid_dream) is a type of dream wherein a person that is dreaming realizes that they are dreaming during their dream. The capacity to have lucid dreams is a trainable cognitive skill.
+
 ## Contents
 
 - [Open-Source Projects](#open-source-projects)
