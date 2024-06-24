@@ -72,7 +72,8 @@ A curated list of everything awesome related to lucid dreaming.
 | Mind Awake | The guided course in this app offers a dynamic, mindful approach to lucid dreaming. | [App Store](https://apps.apple.com/us/app/mind-awake/id1374074148) |
 | Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
 | Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
-| Lucidity | Learn to Lucid Dream + Journal | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
+| Lucidity | Learn to Lucid Dream + Journal. | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
+| Lucid Scribe | Lucid dream tools: reality checks, auto-off alarm, mindfulness, FILD, MILD, WBTB. | [Google Play](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) |
 
 ## Books
 
