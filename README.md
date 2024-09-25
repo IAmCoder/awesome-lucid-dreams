@@ -29,6 +29,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [Dream Journal App](https://github.com/gitbrent/dream-journal-app) - A Dream Journal that uses Google Drive.
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
+- [Dormio](https://christinatchen.github.io/dormio/) - Dormio influences the semi-lucid state of mind known as hypnagogia, which occurs just before falling asleep, by playing audio cues.
 
 ## Forums
 
