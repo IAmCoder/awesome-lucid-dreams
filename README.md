@@ -81,6 +81,8 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ### iOS
 
+- [Lucid-Dash](https://apps.apple.com/us/app/lucid-dash/id1614385345) - Dream journal, AI image generation, lucid dreaming courses, reality checks.
+- [DreamWell](https://apps.apple.com/us/app/dreamwell-lucid-dreaming/id1560429014) - Dream journal, notifications, and lucid dreaming and mindfulness courses. 
 - [Mind Awake](https://apps.apple.com/us/app/mind-awake/id1374074148) - The guided course in this app offers a dynamic, mindful approach to lucid dreaming. 
 - [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - Learn to lucid dream in 30 days with the ultimate lucid dreaming coach.
 - [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Learn to Lucid Dream + Journal.
