@@ -41,8 +41,10 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Discord Servers
 
 - [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
+- [Lucid-Dash](https://discord.gg/fKfmcFe2D5) - A welcoming community of lucid dreamers of all skill levels, active chat with experienced lucid dreamers, tons of resources, videos and tutorials to help you lucid dream.
 - [Dream Café](https://discord.gg/dreamcafe) - A place to share your dream stories, get help and hang out with experienced lucid dreamers from around the world.
 - [Tech for Dreaming](https://discord.gg/UndEguFjSs) - A community focused on the application of technology to make lucid dreaming more accessible.
+- [Klarträumen](https://discord.gg/dZa9Fy6yCk) - The German server for lucid dreaming, with a scientific background, dream reports and discussions, livestreams, and gaming.
 
 ## YouTube Channels
 
