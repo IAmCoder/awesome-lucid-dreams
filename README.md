@@ -69,15 +69,19 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Apps
 
-| Title        | Description           | Links       |
-| ------------ |:---------------------:|:-----------:|
-| Awoken | Dream journal, reality checking, dream cues, dream patterns and achievements. | [Google Play](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) |
-| Sleep as Android | Smart alarm clock with sleep cycle tracking. | [Google Play](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) |
-| Mind Awake | The guided course in this app offers a dynamic, mindful approach to lucid dreaming. | [App Store](https://apps.apple.com/us/app/mind-awake/id1374074148) |
-| Shape | Learn to lucid dream in 30 days with the ultimate lucid dreaming coach. | [App Store](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) |
-| Lucidity | App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams. | [Google Play](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) |
-| Lucidity | Learn to Lucid Dream + Journal. | [App Store](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) |
-| Lucid Scribe | Lucid dream tools: reality checks, auto-off alarm, mindfulness, FILD, MILD, WBTB. | [Google Play](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) |
+### Android
+
+- [Lucid Scribe](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) - Lucid dream induction tools: targeted lucidity reactivation (TLR), targeted dream incubation (TDI), prospective memory trainer for MILD, mnemonic inductions, reality checks, guided mindfulness exercises, electronic FILD with NREM1 (sleep onset) detection, REM detection with the [INSPEC](https://github.com/lucidcode/Halovision-INSPEC) device.
+reality checks, auto-off alarm, mindfulness exercises, electronic FILD device that detects NREM1 (sleep onset).
+- [Awoken](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) - Dream journal, reality checking, dream cues, dream patterns and achievements.
+- [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) - Smart alarm clock with sleep cycle tracking.
+- [Lucidity](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) - App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams.
+
+### iOS
+
+- [Mind Awake](https://apps.apple.com/us/app/mind-awake/id1374074148) - The guided course in this app offers a dynamic, mindful approach to lucid dreaming. 
+- [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - Learn to lucid dream in 30 days with the ultimate lucid dreaming coach.
+- [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Learn to Lucid Dream + Journal.
 
 ## Books
 
@@ -116,10 +120,8 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 Reality checks are tests that are performed to check if you are dreaming. 
 
-| Reality Check       | Description   |
-| -------------       | ------------- |
-| Finger Through Hand | Push your index finger through the palm of the other hand. |
-| How Did I Get Here  | Recall the steps that got you to your current location. |
-| Nose Pinch          | Squeeze your nose closed with your index finger and thumb and try to take a breath. |
-| Finger Counting     | Look closely at your hands for any unusual patterns and count your fingers. |
-| Levitation          | Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly. |
+- Finger Through Hand - Push your index finger through the palm of the other hand.
+- How Did I Get Here - Recall the steps that got you to your current location.
+- Nose Pinch - Squeeze your nose closed with your index finger and thumb and try to take a breath.
+- Finger Counting - Look closely at your hands for any unusual patterns and count your fingers.
+- Levitation - Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
