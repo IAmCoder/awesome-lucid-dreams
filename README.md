@@ -49,6 +49,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## YouTube Channels
 
 - [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [TIGER123](https://www.youtube.com/@TIGERTIGER123TIGER) - Dives into techniques for inducing lucid dreams, exploring dream symbolism, and enhancing dream control, with a mix of tutorials, personal experiences, and insights from the latest dream research.
 - [Tipharot](https://www.youtube.com/channel/UCcwEgS97oUAcBR1rgKj4E0A) - All about lucid dreaming and similar subjects.
 - [Skyfall Blind Dreamer](https://www.youtube.com/channel/UCjPuiCWSbszlo_men2bPMpA) - Interacts with creators in the field of lucid dreaming and provides quality information to get people on the right path to a solid and sustainable lucidity practice.
 
