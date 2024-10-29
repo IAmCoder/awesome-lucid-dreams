@@ -71,7 +71,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ### Android
 
-- [Lucid Scribe](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) - Lucid dream induction tools: targeted lucidity reactivation (TLR), targeted dream incubation (TDI), prospective memory trainer for MILD, mnemonic inductions, reality checks, guided mindfulness exercises, electronic FILD with NREM1 (sleep onset) detection, REM detection with the [INSPEC](https://github.com/lucidcode/Halovision-INSPEC) device.
+- [Lucid Scribe](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) - Lucid dream induction tools: targeted lucidity reactivation (TLR), targeted dream incubation (TDI), prospective memory trainer for MILD, mnemonic inductions, reality checks, guided mindfulness exercises, electronic FILD with NREM1 (sleep onset) detection, REM detection with the INSPEC device.
 reality checks, auto-off alarm, mindfulness exercises, electronic FILD device that detects NREM1 (sleep onset).
 - [Awoken](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) - Dream journal, reality checking, dream cues, dream patterns and achievements.
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) - Smart alarm clock with sleep cycle tracking.
