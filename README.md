@@ -7,6 +7,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Contents
 
 - [Open-Source Projects](#open-source-projects)
+- [Lucid Dreaming Devices](#lucid-dreaming-devices)
 - [Forums](#forums)
 - [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
@@ -32,7 +33,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [Dormio](https://christinatchen.github.io/dormio/) - Dormio influences the semi-lucid state of mind known as hypnagogia, which occurs just before falling asleep, by playing audio cues.
 - [SSILD Trainer](https://github.com/rochismo/ssild-react) - A SSILD (Senses Initiated Lucid Dream) training web app designed to help you practice the SSILD cycles.
 
-## Lucid Dreaming Device
+## Lucid Dreaming Devices
 
 - [INSPEC](https://inspec.me) - A night-vision smart camera that detects eye movements during REM sleep and triggers audio and visual alerts to promote lucidity.
 
