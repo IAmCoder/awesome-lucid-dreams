@@ -41,6 +41,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 - [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
 - [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
+- [LD4all](https://community.ld4all.com) - One of the oldest lucid dreaming communities, with a forum, a free beginner's guide, and technique tutorials.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
 - [Klartraumforum](https://www.klartraumforum.de) - German forum with interesting experiments worth translating.
 
