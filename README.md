@@ -62,7 +62,6 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Podcasts
 
-- [Lucid Dreaming Podcast by The Lucid Guide](https://www.thelucidguide.com/lucid-dream-podcast) - Talks about lucid dreaming techniques, tutorials, and mind hacking.
 - [The Lucid Dreaming Podcast by Lucid Sage](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
 
 ## Meetups
