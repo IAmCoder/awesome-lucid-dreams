@@ -63,6 +63,8 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Podcasts
 
 - [The Lucid Dreaming Podcast by Lucid Sage](https://lucidsage.com/) - Covering theory, philosophy, practice and gadgets for lucid dreaming.
+- [The Dream World](https://open.spotify.com/show/62dcN7FG5dSlJg8IKASdzL) - Weekly show on lucid dreaming, sleep and consciousness, with dream researchers, lucid dreamers and personal lucid dream experiments.
+- [Sleep & Deep Lucid Dreaming](https://podcasts.apple.com/us/podcast/sleep-deep-lucid-dreaming/id1813136792) - Dr. Clare Johnson on lucid dreaming techniques, nightmares and dream yoga.
 
 ## Meetups
 
