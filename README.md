@@ -26,7 +26,6 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Open-Source Projects
 
 - [Dreamento](https://github.com/dreamento/dreamento) - DReam ENgenieering TOolbox is Python-based program for dream engineering while monitoring/analyzing real-time EEG data.
-- [Fitbit Lucid Trainer](https://github.com/lucid-trainer/fit-lucid-trainer) - A Fitbit SDK 5.0 App to capture sleep related data and send to an external REST service.
 - [Dream Journal App](https://github.com/gitbrent/dream-journal-app) - A Dream Journal that uses Google Drive.
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
@@ -55,10 +54,9 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## YouTube Channels
 
-- [Lucid Dream Portal](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [Daniel Love](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
 - [TIGER123](https://www.youtube.com/@TIGERTIGER123TIGER) - Dives into techniques for inducing lucid dreams, exploring dream symbolism, and enhancing dream control, with a mix of tutorials, personal experiences, and insights from the latest dream research.
 - [Tipharot](https://www.youtube.com/channel/UCcwEgS97oUAcBR1rgKj4E0A) - All about lucid dreaming and similar subjects.
-- [Skyfall Blind Dreamer](https://www.youtube.com/channel/UCjPuiCWSbszlo_men2bPMpA) - Interacts with creators in the field of lucid dreaming and provides quality information to get people on the right path to a solid and sustainable lucidity practice.
 
 ## Podcasts
 
@@ -72,32 +70,30 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Magazines
 
-- [Lucid Dreaming Experience](https://www.luciddreamingmagazine.com) - A free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
+- [Lucid Dreaming Experience](https://luciddreamingmagazine.com) - A free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
 
 ## Games
 
 - [DARQ](https://store.steampowered.com/app/433550/DARQ_Complete_Edition/) - An adventure game that tells the story of Lloyd, a boy who becomes aware of the fact that he is dreaming.
-- [Dreams](https://store.steampowered.com/app/4214640/Dreams/) - A meditative incremental / idle game where you weave dreams, collect memories, and dive ever deeper into the dreamscape.
 
 ## Apps
 
 ### Android
 
-- [Lucid Scribe](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe&hl=en_US) - Dream journal with speech-to-text and dream sign detection, Homing Signal pre-sleep cue training, targeted lucidity reactivation (TLR), targeted dream incubation (TDI), guided MILD, SSILD, DEILD, WBTB and FILD, a prospective memory trainer, reality checks, guided mindfulness exercises, and REM detection with the INSPEC device.
+- [Lucid Scribe](https://play.google.com/store/apps/details?id=com.lucidcode.lucidscribe) - Dream journal, Homing Signal cue training, guided MILD, SSILD, WBTB and FILD, targeted lucidity reactivation, and REM detection with the INSPEC device.
 - [Awoken](https://play.google.com/store/apps/details?id=com.lucid_dreaming.awoken) - Dream journal, reality checking, dream cues, dream patterns and achievements.
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep) - Smart alarm clock with sleep cycle tracking.
-- [Lucidity](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) - App with innovative features to help you lucid dream, keep a dream journal, and analyze your dreams.
+- [Lucidity](https://play.google.com/store/apps/details?id=ch.b3nz.lucidity) - Dream journal with AI dream interpretation, guided MILD, WILD, SSILD and WBTB lessons, and reality check reminders.
 - [TritonSleep](https://play.google.com/store/apps/details?id=com.tritonapps.tritonsleep) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
 
 ### iOS
 
-- [Lucid Scribe](https://apps.apple.com/us/app/lucid-scribe-lucid-dreaming/id6755086169) - Dream journal with speech-to-text and dream sign detection, Homing Signal pre-sleep cue training, targeted lucidity reactivation (TLR), targeted dream incubation (TDI), guided MILD, SSILD, DEILD, WBTB and FILD, a prospective memory trainer, reality checks, guided mindfulness exercises, and REM detection with the INSPEC device.
-- [Lucid-Dash](https://apps.apple.com/us/app/lucid-dash/id1614385345) - Dream journal, AI image generation, lucid dreaming courses, reality checks.
+- [Lucid Scribe](https://apps.apple.com/us/app/lucid-scribe-lucid-dreaming/id6755086169) - Dream journal, Homing Signal cue training, guided MILD, SSILD, WBTB and FILD, targeted lucidity reactivation, and REM detection with the INSPEC device.
 - [DreamWell](https://apps.apple.com/us/app/dreamwell-lucid-dreaming/id1560429014) - Dream journal, notifications, and lucid dreaming and mindfulness courses. 
 - [Lucid Dreaming, Mindfully](https://apps.apple.com/us/app/mind-awake/id1374074148) - The guided course in this app offers a dynamic, mindful approach to lucid dreaming. 
 - [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - Learn to lucid dream in 30 days with the ultimate lucid dreaming coach.
-- [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Learn to Lucid Dream + Journal.
-- [TritonSleep](https://apps.apple.com/ie/app/tritonsleep-relax-sleep/id6790134035) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
+- [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Privacy-minded dream journal with tags, moods, journaling prompts and beginner guides to lucid dreaming.
+- [TritonSleep](https://apps.apple.com/us/app/tritonsleep-relax-sleep/id6790134035) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
 
 ## Research Studies
 
@@ -130,17 +126,15 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Movies
 
-- [The Matrix](https://www.imdb.com/title/tt0133093/) - When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
 - [Waking Life](https://www.imdb.com/title/tt0243017/) - A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
-- [Your Name](https://www.imdb.com/title/tt5311514/) - Two strangers find themselves linked in a bizarre way.
 - [Paprika](https://www.imdb.com/title/tt0851578/) - Reality and the dream world are on a collision course after a device that can record dreams and allows therapists to enter their patients' dreams is stolen from a psychiatric research facility.
 - [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
 
 
 ## Mindfulness Exercises
 
-- [UC San Diego Center for Mindfulness](https://cih.ucsd.edu/mindfulness/guided-audio-video) - Guided exercises on mental noting, awareness of breath, and body scan. 
-- [UCLA Mindful Awareness Research Center](https://www.uclahealth.org/marc/mindful-meditations) - Guided exercises on breath, sound, and body awareness.
+- [UC San Diego Center for Mindfulness](https://cih.ucsd.edu/mindfulness/guided-audio) - Guided exercises on mental noting, awareness of breath, and body scan. 
+- [UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations) - Guided exercises on breath, sound, and body awareness.
 - [The Free Mindfulness Project](https://www.freemindfulness.org/download) - Guided exercises on breath, sound, body awareness and self guided exercises.
 - [AudioDharma](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises on giving attention and appreciating awareness of the moment.
 
@@ -157,4 +151,4 @@ Reality checks are tests that are performed to check if you are dreaming.
 - How Did I Get Here - Recall the steps that got you to your current location.
 - Nose Pinch - Squeeze your nose closed with your index finger and thumb and try to take a breath.
 - Finger Counting - Look closely at your hands for any unusual patterns and count your fingers.
-- Levitation - Imagine what it would feel like to fly around in your surroundings and visualize yourself doing so; after enough daydreaming you will at least have a dream in which you can fly.
+- Levitation - Jump or try to float; in a dream you will often hover or rise.
