@@ -1,8 +1,6 @@
 # Awesome Lucid Dreams [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of everything awesome related to lucid dreaming.
-
-In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.org/wiki/Lucid_dream) is a type of dream wherein a person that is dreaming realizes that they are dreaming during their dream. The capacity to have lucid dreams is a trainable cognitive skill.
+A [lucid dream](https://en.wikipedia.org/wiki/Lucid_dream) is a dream in which the dreamer realizes they are dreaming. Lucid dreaming is studied in oneirology, the science of dreams, and is a skill that can be trained.
 
 ## Contents
 
@@ -25,7 +23,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Open-Source Projects
 
-- [Dreamento](https://github.com/dreamento/dreamento) - DReam ENgenieering TOolbox is Python-based program for dream engineering while monitoring/analyzing real-time EEG data.
+- [Dreamento](https://github.com/dreamento/dreamento) - Python toolbox for dream engineering that records, monitors and analyzes EEG in real time.
 - [Dream Journal App](https://github.com/gitbrent/dream-journal-app) - A Dream Journal that uses Google Drive.
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
@@ -42,7 +40,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Forums
 
-- [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.
+- [r/LucidDreaming](https://www.reddit.com/r/LucidDreaming) - Large community for sharing induction techniques, questions, dream reports, resources and research news.
 - [DreamViews](https://dreamviews.com) - All about lucid dreaming, controlling dreams, lucid aids, sleep stages and dream signs.
 - [LD4all](https://community.ld4all.com) - One of the oldest lucid dreaming communities, with a forum, a free beginner's guide, and technique tutorials.
 - [Attrape-Songes](https://www.attrape-songes.com) - French forum with interesting experiments worth translating.
@@ -53,12 +51,12 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [OmniLucid](https://discord.gg/rFMTYxMcjZ) - A knowledgeable space with active events that consistently provide new videos, guides, and stories pertaining to lucid dreaming.
 - [Lucid-Dash](https://discord.gg/fKfmcFe2D5) - A welcoming community of lucid dreamers of all skill levels, active chat with experienced lucid dreamers, tons of resources, videos and tutorials to help you lucid dream.
 - [Dream Café](https://discord.gg/dreamcafe) - A place to share your dream stories, get help and hang out with experienced lucid dreamers from around the world.
-- [Tech for Dreaming](https://discord.gg/UndEguFjSs) - A community focused on the application of technology to make lucid dreaming more accessible.
+- [Tech for Dreaming](https://discord.gg/UndEguFjSs) - Chat about using technology to make lucid dreaming more accessible.
 - [Klartraumland](https://discord.gg/dZa9Fy6yCk) - The German server for lucid dreaming, with a scientific background, dream reports and discussions, livestreams, and gaming.
 
 ## YouTube Channels
 
-- [Daniel Love](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers. 
+- [Daniel Love](https://www.youtube.com/channel/UCJaUAmw7TCFXBwAULWZwslA) - Easy to follow tutorials and expert advice from one of the world's leading lucid dreaming teachers.
 - [TIGER123](https://www.youtube.com/@TIGERTIGER123TIGER) - Dives into techniques for inducing lucid dreams, exploring dream symbolism, and enhancing dream control, with a mix of tutorials, personal experiences, and insights from the latest dream research.
 - [Tipharot](https://www.youtube.com/channel/UCcwEgS97oUAcBR1rgKj4E0A) - All about lucid dreaming and similar subjects.
 - [Charlie Morley](https://www.youtube.com/@CharlieMorley) - Talks and guided practices from a lucid dreaming teacher who combines Western techniques with Tibetan Buddhist dream yoga.
@@ -72,11 +70,11 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Meetups and Conferences
 
 - [IASD Annual Conference](https://iasdconferences.org/) - Yearly conference of the International Association for the Study of Dreams, with research talks and lucid dreaming workshops.
-- [Tech for Dreaming](https://techfordreaming.com/events/) - A community focused on the application of technology to make lucid dreaming more accessible.
+- [Tech for Dreaming](https://techfordreaming.com/events/) - Occasional online talks and meetups on technology for lucid dreaming.
 
 ## Magazines
 
-- [Lucid Dreaming Experience](https://luciddreamingmagazine.com) - A free, reader supported, quarterly magazine which is totally devoted to lucid dreaming and the lucid dreamer's experience.
+- [Lucid Dreaming Experience](https://luciddreamingmagazine.com) - Free, reader-supported quarterly magazine of lucid dream reports and articles by lucid dreamers.
 
 ## Games
 
@@ -100,9 +98,9 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ### iOS
 
 - [Lucid Scribe](https://apps.apple.com/us/app/lucid-scribe-lucid-dreaming/id6755086169) - Dream journal, Homing Signal cue training, guided MILD, SSILD, WBTB and FILD, targeted lucidity reactivation, and REM detection with the INSPEC device.
-- [DreamWell](https://apps.apple.com/us/app/dreamwell-lucid-dreaming/id1560429014) - Dream journal, notifications, and lucid dreaming and mindfulness courses. 
-- [Lucid Dreaming, Mindfully](https://apps.apple.com/us/app/mind-awake/id1374074148) - The guided course in this app offers a dynamic, mindful approach to lucid dreaming. 
-- [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - Learn to lucid dream in 30 days with the ultimate lucid dreaming coach.
+- [DreamWell](https://apps.apple.com/us/app/dreamwell-lucid-dreaming/id1560429014) - Dream journal, notifications, and lucid dreaming and mindfulness courses.
+- [Lucid Dreaming, Mindfully](https://apps.apple.com/us/app/mind-awake/id1374074148) - Guided course that teaches lucid dreaming through mindfulness practice.
+- [Shape](https://apps.apple.com/us/app/shape-lucid-dreaming/id1577026266) - 30-day guided program for learning to lucid dream.
 - [Oniri](https://apps.apple.com/us/app/oniri-your-dream-journal/id968737914) - Dream journal with voice recording, dream interpretation and lucid dreaming lessons.
 - [Lucidity](https://apps.apple.com/us/app/lucidity-lucid-dreaming/id1121048340) - Privacy-minded dream journal with tags, moods, journaling prompts and beginner guides to lucid dreaming.
 - [TritonSleep](https://apps.apple.com/us/app/tritonsleep-relax-sleep/id6790134035) - Private on-device dream journal, reality-check reminders and guided MILD, WBTB, SSILD, WILD and FILD sessions with evidence ratings; no account.
@@ -141,32 +139,31 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Books
 
-- [Exploring the World of Lucid Dreaming by Stephen LaBerge](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/) - Goes far beyond the confines of pop dream psychology, establishing a scientifically researched framework for using lucid dreaming. The techniques you'll learn in this exciting workbook will make your nightly dream journeys more enjoyable, increase your understanding of yourself, and make you realize that the possibilities of expanding consciousness are far greater than you might think.
-- [Lucid Dreaming: A Concise Guide to Awakening in Your Dreams and in Your Life by Stephen LaBerge](https://www.amazon.com/Lucid-Dreaming-Concise-Awakening-Dreams/dp/159179675X) - Distilled from his more than 20 years of pioneering research at Stanford University and the Lucidity Institute, including many new and updated techniques and discoveries.
-- [Lucid Dreaming: Gateway to the Inner Self by Robert Waggoner](https://www.amazon.com/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) - Proposes 5 stages of lucid dreaming and guides readers through them, offering advice for those who have never experienced the lucid dream state and suggestions for how experienced lucid dreamers can advance to a new level.
+- [Exploring the World of Lucid Dreaming by Stephen LaBerge](https://www.amazon.com/Exploring-World-Dreaming-Stephen-LaBerge/dp/034537410X/) - Workbook of step-by-step exercises for learning to lucid dream, based on research at Stanford University.
+- [Lucid Dreaming: A Concise Guide to Awakening in Your Dreams and in Your Life by Stephen LaBerge](https://www.amazon.com/Lucid-Dreaming-Concise-Awakening-Dreams/dp/159179675X) - Short guide that distills LaBerge's research at Stanford and the Lucidity Institute into practical techniques.
+- [Lucid Dreaming: Gateway to the Inner Self by Robert Waggoner](https://www.amazon.com/Lucid-Dreaming-Gateway-Inner-Self/dp/193049114X) - Proposes five stages of lucid dreaming, with advice for beginners and for experienced lucid dreamers who want to go further.
 - [Lucid Dreaming, Plain and Simple by Robert Waggoner and Caroline McCready](https://openlibrary.org/works/OL20001103W) - Short, practical introduction to lucid dreaming techniques and what to do once lucid.
-- [Are You Dreaming?: Exploring Lucid Dreams: A Comprehensive Guide by Daniel Love](https://www.amazon.com/Are-You-Dreaming-Exploring-Comprehensive/dp/0957497709) - In this comprehensive and modern guide to lucid dreaming, you will be guided on a unique journey through the fascinating exploration of your mind. Just about everything you could possibly need to know about lucid dreaming.
-- [A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics by Dylan Tuccillo](https://www.amazon.com/Field-Guide-Lucid-Dreaming-Oneironautics/dp/0761177396/) - This lively dream guide shows step-by-step how to become lucid, and then what to do once awake in the dream world.  
-- [Learn to Lucid Dream: Powerful Techniques for Awakening Creativity and Consciousness by Kristen LaMarca](https://www.amazon.com/Learn-Lucid-Dream-Techniques-Consciousness/dp/1641523824) - This methodical introduction teaches you both the science and spirituality of dreaming. You will practice developing dream awareness and apply the discoveries you make while sleeping towards improving your waking hours.
+- [Are You Dreaming?: Exploring Lucid Dreams: A Comprehensive Guide by Daniel Love](https://www.amazon.com/Are-You-Dreaming-Exploring-Comprehensive/dp/0957497709) - Comprehensive modern guide to the science, techniques and practice of lucid dreaming.
+- [A Field Guide to Lucid Dreaming: Mastering the Art of Oneironautics by Dylan Tuccillo](https://www.amazon.com/Field-Guide-Lucid-Dreaming-Oneironautics/dp/0761177396/) - Illustrated step-by-step guide to becoming lucid and what to do once lucid.
+- [Learn to Lucid Dream: Powerful Techniques for Awakening Creativity and Consciousness by Kristen LaMarca](https://www.amazon.com/Learn-Lucid-Dream-Techniques-Consciousness/dp/1641523824) - Methodical introduction to the science and practice of lucid dreaming, and to applying it in waking life.
 - [Llewellyn's Complete Book of Lucid Dreaming by Clare R. Johnson](https://openlibrary.org/works/OL19640373W) - Comprehensive guide to lucid dreaming techniques and to using lucid dreams for creativity, nightmares and sleep problems.
 - [Dreams of Awakening by Charlie Morley](https://openlibrary.org/works/OL21510874W) - Lucid dreaming and mindfulness of dream and sleep, combining Western techniques with Tibetan Buddhist practice.
-- [Far Journeys by Robert A. Monroe](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) - Parapsychological odyssey that reflects a decade of research into the psychic realm beyond the known dimensions of physical reality.
-- [The Tibetan Yogas of Dream and Sleep by Tenzin Wangyal Rinpoche](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) - The ultimate goal of Tibetan dream yoga is the recognition of the nature of mind or enlightenment itself. The practice of dream yoga is a powerful tool of awakening, used for hundreds of years by the great masters of the Tibetan traditions. 
+- [Far Journeys by Robert A. Monroe](https://www.amazon.com/Far-Journeys-Trilogy-Robert-Monroe/dp/0385231822) - Robert Monroe's account of his out-of-body experiences, the sequel to Journeys Out of the Body.
+- [The Tibetan Yogas of Dream and Sleep by Tenzin Wangyal Rinpoche](https://www.amazon.com/Tibetan-Yogas-Dream-Sleep/dp/1559391014/) - Guide to Tibetan dream yoga and sleep yoga, whose goal is recognizing the nature of mind.
 - [Dream Yoga by Andrew Holecek](https://openlibrary.org/works/OL20033478W) - Combines Western lucid dreaming techniques with the Tibetan yogas of dream and sleep.
-- [Dream Yoga and the Practice of Natural Light by Chogyal Namkhai Norbu](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - Instructions for developing clarity within the sleep and dream states. Goes beyond the practices of lucid dreaming by presenting methods for guiding dream states that are part of a broader system for enhancing self-awareness.
+- [Dream Yoga and the Practice of Natural Light by Chogyal Namkhai Norbu](https://www.amazon.com/Dream-Yoga-Practice-Natural-Light/dp/1559391618) - Dzogchen teachings on developing clarity in sleep and dreams, including practices that go beyond lucid dreaming.
 
 ## Movies
 
-- [Waking Life](https://www.imdb.com/title/tt0243017/) - A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
+- [Waking Life](https://www.imdb.com/title/tt0243017/) - Animated film in which a young man drifts through a series of dreams, discussing consciousness and lucid dreaming with the people he meets.
 - [Vanilla Sky](https://www.imdb.com/title/tt0259711/) - A man whose life unravels after a disfiguring accident slowly realizes that the world he inhabits is a lucid dream.
-- [Paprika](https://www.imdb.com/title/tt0851578/) - Reality and the dream world are on a collision course after a device that can record dreams and allows therapists to enter their patients' dreams is stolen from a psychiatric research facility.
-- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.
+- [Paprika](https://www.imdb.com/title/tt0851578/) - Animated film about a device that lets therapists enter their patients' dreams, and what happens when it is stolen.
+- [Inception](https://www.imdb.com/title/tt1375666/) - A thief who enters people's dreams is hired to plant an idea in a target's mind.
 - [Lucid Dream](https://www.imdb.com/title/tt6830780/) - A journalist uses lucid dreaming to search his memories for clues to his son's kidnapping.
-
 
 ## Mindfulness Exercises
 
-- [UC San Diego Center for Mindfulness](https://cih.ucsd.edu/mindfulness/guided-audio) - Guided exercises on mental noting, awareness of breath, and body scan. 
+- [UC San Diego Center for Mindfulness](https://cih.ucsd.edu/mindfulness/guided-audio) - Guided exercises on mental noting, awareness of breath, and body scan.
 - [UCLA Mindful](https://www.uclahealth.org/uclamindful/guided-meditations) - Guided exercises on breath, sound, and body awareness.
 - [The Free Mindfulness Project](https://www.freemindfulness.org/download) - Guided exercises on breath, sound, body awareness and self guided exercises.
 - [AudioDharma](https://www.audiodharma.org/series/1/talk/1835/) - Guided exercises on giving attention and appreciating awareness of the moment.
@@ -178,7 +175,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 
 ## Reality Checks
 
-Reality checks are tests that are performed to check if you are dreaming. 
+Reality checks are tests that are performed to check if you are dreaming.
 
 - Finger Through Hand - Push your index finger through the palm of the other hand.
 - How Did I Get Here - Recall the steps that got you to your current location.
